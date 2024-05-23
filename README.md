@@ -11,13 +11,13 @@
 ![Navbar Animations](./Project Img/Navbar-Animations.png)
 
 
-## 3. SVG Animations
+## 4. SVG Animations
 ![SVG Animations](./Project Img/svg-animations.png)
 
 
-## 3. Text Animations
+## 5. Text Animations
 ![Text Animations](./Project Img/text-animations.png)
 
 
-## 3. Timeline Animations
+## 6. Timeline Animations
 ![Timeline Animations](./Project Img/timeline-animations.png)
